@@ -1,7 +1,7 @@
 [run]
 branch = True
-source = shablona/*
-include = shablona/*
+source = cosmology/*
+include = cosmology/*
 omit = */setup.py
 [report]
-include = shablona/*
+include = cosmology/*

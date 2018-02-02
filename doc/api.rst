@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: cosmology
 
 .. autosummary::
    :template: class.rst
